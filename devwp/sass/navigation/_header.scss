@@ -13,7 +13,8 @@
 
 .topnav {
   overflow: hidden;
-  background-color: black;
+  background-color: $blue;
+  text-transform: uppercase;
 
   // To remove sticky feature delete the code after this point
   position: fixed;

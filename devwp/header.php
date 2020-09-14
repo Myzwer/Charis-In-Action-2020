@@ -14,6 +14,7 @@
 <head>
 <meta charset="<?php bloginfo( 'charset' ); ?>">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Charis In Action</title>
 <link rel="profile" href="http://gmpg.org/xfn/11">
     <script src="https://kit.fontawesome.com/aa36ddf53c.js" crossorigin="anonymous"></script>
 <?php wp_head(); ?>
@@ -22,7 +23,7 @@
 <div class="topnav" id="myTopnav">
     <div class = "logo">
         <a href="http://charisinaction.org/">
-            <img src = "http://starter-template.local/wp-content/uploads/2020/03/Logo.png" alt = "logo">
+            <img src = "http://charis-in-action-2020.local/wp-content/uploads/2020/09/logo-icon.png" alt = "logo">
         </a>
     </div>
 
