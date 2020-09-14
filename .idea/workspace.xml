@@ -3,6 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="053c30ea-41d6-43a4-9236-366eb4cc3d4d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devwp/404.php" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/404.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devwp/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devwp/front-page.php" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/front-page.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devwp/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devwp/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/home.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devwp/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devwp/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,9 +17,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ComposerSettings">
-    <execution>
-      <executable />
-    </execution>
+    <execution />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -29,7 +34,6 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -50,18 +54,6 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/devwp/sass/navigation" />
     </key>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -87,11 +79,12 @@
       <workItem from="1585462613948" duration="20926000" />
       <workItem from="1585629701782" duration="2806000" />
       <workItem from="1586218388070" duration="975000" />
+      <workItem from="1600058520772" duration="475000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="383" y="253" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581402591690">

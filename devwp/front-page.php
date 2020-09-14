@@ -2,12 +2,12 @@
 /**
  * Template Name: Front Page
  *
- * The Frontpage of the Yestau Theme
+ * The Frontpage of the Charis Theme
  *
  * @link https://developer.wordpress.org/themes/basics/template-hierarchy/
  *
  * @package WordPress
- * @subpackage Yestau
+ * @subpackage Cbaris
  * @since 1.0.0
  */
 

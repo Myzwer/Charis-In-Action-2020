@@ -1,9 +1,9 @@
 <?php
 /**
- * The template for displaying the 404 template in the Yestau theme.
+ * The template for displaying the 404 template in the Charis theme.
  *
  * @package WordPress
- * @subpackage Yestau
+ * @subpackage Charis
  * @since 1.0.0
  */
 

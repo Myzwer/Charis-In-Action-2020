@@ -1,11 +1,11 @@
 <?php
 /**
- * Header file for the Yestau Theme
+ * Header file for the Charis Theme
  *
  * @link https://developer.wordpress.org/themes/basics/template-files/#template-partials
  *
  * @package WordPress
- * @subpackage Yestau
+ * @subpackage Charis
  * @since 1.0.0
  */
 

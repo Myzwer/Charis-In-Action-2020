@@ -7,7 +7,7 @@
  *
  *
  * @package WordPress
- * @subpackage Yestau
+ * @subpackage Charis
  * @since 1.0.0
  */
 
