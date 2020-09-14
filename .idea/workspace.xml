@@ -19,14 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="053c30ea-41d6-43a4-9236-366eb4cc3d4d" name="Default Changelist" comment="Updated the fonts">
+    <list default="true" id="053c30ea-41d6-43a4-9236-366eb4cc3d4d" name="Default Changelist" comment="Updated the header for this theme">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devwp/dist/css/main.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/dist/css/main.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devwp/dist/css/maps/main.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/dist/css/maps/main.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devwp/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devwp/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devwp/sass/globals/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/sass/globals/_variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devwp/sass/navigation/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/sass/navigation/_header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devwp/sass/navigation/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/sass/navigation/_footer.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +91,7 @@
       <workItem from="1585462613948" duration="20926000" />
       <workItem from="1585629701782" duration="2806000" />
       <workItem from="1586218388070" duration="975000" />
-      <workItem from="1600058520772" duration="2822000" />
+      <workItem from="1600058520772" duration="2943000" />
     </task>
     <task id="LOCAL-00001" summary="Udpated theme name from the starter theme &quot;yestau&quot; to &quot;charis&quot;, the primary theme name for this website.">
       <created>1600059284163</created>
@@ -119,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600060630786</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Updated the header for this theme">
+      <created>1600062247973</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1600062247973</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,7 +142,8 @@
     <MESSAGE value="Udpated theme name from the starter theme &quot;yestau&quot; to &quot;charis&quot;, the primary theme name for this website." />
     <MESSAGE value="Moved Contact to the appropriate folder, since it was hiding in another folder." />
     <MESSAGE value="Updated the fonts" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated the fonts" />
+    <MESSAGE value="Updated the header for this theme" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated the header for this theme" />
   </component>
   <component name="WindowStateProjectService">
     <state x="383" y="253" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581402591690">
