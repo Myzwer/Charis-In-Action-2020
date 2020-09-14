@@ -53,7 +53,6 @@ const jsSRC = [
 //  - Order matters!
 
 const cssSRC = [
-    root + 'webfonts/stylesheet.css',
     root + 'src/css/foundation.min.css',
     root + 'src/css/foundation-icons.css',
     root + 'main.css'

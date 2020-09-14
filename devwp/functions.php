@@ -37,9 +37,14 @@ add_action('wp_enqueue_scripts', 'scripts_loadin');
 //********************* FONTS *************************
 //*****************************************************
 
-//Raleway Registration
-wp_register_style( 'raleway_font', 'https://fonts.googleapis.com/css?family=Raleway:400,700' );
-wp_enqueue_style('raleway_font');
+//Playfair Registration
+wp_register_style( 'playfair_font', 'https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,700&display=swap' );
+wp_enqueue_style('playfair_font');
+
+
+//Source Sans Pro Registration
+wp_register_style( 'source_sans_font', 'https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap' );
+wp_enqueue_style('source_sans_font');
 
 
 //*****************************************************
