@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="053c30ea-41d6-43a4-9236-366eb4cc3d4d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devwp/404.php" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/404.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devwp/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/footer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devwp/front-page.php" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/front-page.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devwp/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devwp/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/home.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devwp/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devwp/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/style.css" afterDir="false" />
-    </list>
+    <list default="true" id="053c30ea-41d6-43a4-9236-366eb4cc3d4d" name="Default Changelist" comment="Udpated theme name from the starter theme &quot;yestau&quot; to &quot;charis&quot;, the primary theme name for this website." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,12 +88,35 @@
       <workItem from="1585462613948" duration="20926000" />
       <workItem from="1585629701782" duration="2806000" />
       <workItem from="1586218388070" duration="975000" />
-      <workItem from="1600058520772" duration="475000" />
+      <workItem from="1600058520772" duration="964000" />
     </task>
+    <task id="LOCAL-00001" summary="Udpated theme name from the starter theme &quot;yestau&quot; to &quot;charis&quot;, the primary theme name for this website.">
+      <created>1600059284163</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600059284164</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Udpated theme name from the starter theme &quot;yestau&quot; to &quot;charis&quot;, the primary theme name for this website." />
+    <option name="LAST_COMMIT_MESSAGE" value="Udpated theme name from the starter theme &quot;yestau&quot; to &quot;charis&quot;, the primary theme name for this website." />
   </component>
   <component name="WindowStateProjectService">
     <state x="383" y="253" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581402591690">
