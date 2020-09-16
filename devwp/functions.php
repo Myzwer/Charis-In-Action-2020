@@ -37,9 +37,9 @@ add_action('wp_enqueue_scripts', 'scripts_loadin');
 //********************* FONTS *************************
 //*****************************************************
 
-//Playfair Registration
-wp_register_style( 'playfair_font', 'https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,700&display=swap' );
-wp_enqueue_style('playfair_font');
+//Merriweather Registration
+wp_register_style( 'merriweather_font', 'https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@1,300' );
+wp_enqueue_style('merriweather_font');
 
 
 //Source Sans Pro Registration

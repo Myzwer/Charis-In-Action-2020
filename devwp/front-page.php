@@ -7,18 +7,27 @@
  * @link https://developer.wordpress.org/themes/basics/template-hierarchy/
  *
  * @package WordPress
- * @subpackage Cbaris
+ * @subpackage Charis
  * @since 1.0.0
  */
 
 get_header(); ?>
 
-    <video src="https://foothillscollective.com/wp-content/uploads/2020/02/Revival-Here-Background.mp4" autoplay loop playsinline muted></video>
-
-    <div class="viewport-header">
-        <div>
-            <h1 class = "main-header">What happened That Night</h1>
-            <h1 class = "main-header"> Watch the exclusive video</h1>
+    <div class="grid-container full-width">
+        <div class="grid-x grid-padding-x full-background hero" style =
+        "background: linear-gradient(
+      rgba(0, 0, 0, 0.45),
+      rgba(0, 0, 0, 0.45)
+    ),
+    url(https://images.unsplash.com/photo-1459183885421-5cc683b8dbba?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2250&q=80);
+        background-position: center center;">
+            <div class="large-12 cell">
+                <div class="content-middle content-middle-hero">
+                    <h1 class = "center" >Charis In Action</h1>
+                    <hr>
+                    <h2 class = "page-tagline">Engage the World, Embrace the Kingdom, Empower the People</h2>
+                </div>
+            </div>
         </div>
     </div>
 
@@ -26,96 +35,89 @@ get_header(); ?>
 
 <div class="full-width main-background">
     <div class = "grid-container">
-        <div class="grid-x grid-padding-x">
-            <div class="large-12 cell">
-                <h1>Welcome to 6!</h1>
-
-                <button class="btn btn-v2">Button 5</button>
-                <div class="callout">
-                    <h3>We're stoked you want to try Foundation! <i class="fas fa-address-book"></i></h3>
-                    <p>To get going, this file (index.html) includes some basic styles you can modify, play around with, or totally destroy to get going.</p>
-                    <p>Once you've exhausted the fun in this document, you should check out:</p>
-                    <div class="grid-x grid-padding-x">
-                        <div class="large-4 medium-4 cell">
-                            <p><a href="http://foundation.zurb.com/docs">Foundation Documentation</a><br />Everything you need to know about using the framework.</p>
-                        </div>
-                        <div class="large-4 medium-4 cell">
-                            <p><a href="http://zurb.com/university/code-skills">Foundation Code Skills</a><br />These online courses offer you a chance to better understand how Foundation works and how you can master it to create awesome projects.</p>
-                        </div>
-                        <div class="large-4 medium-4 cell">
-                            <p><a href="http://foundation.zurb.com/forum">Foundation Forum</a><br />Join the Foundation community to ask a question or show off your knowledge.</p>
-                        </div>
-                    </div>
-                    <div class="grid-x grid-padding-x">
-                        <div class="large-4 medium-4 medium-push-2 cell">
-                            <p><a href="http://github.com/zurb/foundation">Foundation on Github</a><br />Latest code, issue reports, feature requests and more.</p>
-                        </div>
-                        <div class="large-4 medium-4 medium-pull-2 cell">
-                            <p><a href="https://twitter.com/ZURBfoundation">@zurbfoundation</a><br />Ping us on Twitter if you have questions. When you build something with this we'd love to see it (and send you a totally boss sticker).</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div class="grid-x grid-padding-x">
-            <div class="large-8 medium-8 cell">
-                <h5>Here&rsquo;s your basic grid:</h5>
-                <!-- Grid Example -->
-
-                <div class="grid-x grid-padding-x">
-                    <div class="large-12 cell">
-                        <div class="primary callout">
-                            <p><strong>This is a twelve cell section in a grid-x.</strong> Each of these includes a div.callout element so you can see where the cell are - it's not required at all for the grid.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="grid-x grid-padding-x">
-                    <div class="large-6 medium-6 cell">
-                        <div class="primary callout">
-                            <p>Six cell</p>
-                        </div>
-                    </div>
-                    <div class="large-6 medium-6 cell">
-                        <div class="primary callout">
-                            <p>Six cell</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="grid-x grid-padding-x">
-                    <div class="large-4 medium-4 small-4 cell">
-                        <div class="primary callout">
-                            <p>Four cell</p>
-                        </div>
-                    </div>
-                    <div class="large-4 medium-4 small-4 cell">
-                        <div class="primary callout">
-                            <p>Four cell</p>
-                        </div>
-                    </div>
-                    <div class="large-4 medium-4 small-4 cell">
-                        <div class="primary callout">
-                            <p>Four cell</p>
-                        </div>
-                    </div>
-                </div>
+        <div class="grid-x grid-padding-x grid-margin-x">
+            <div class="large-12 cell margin-pull featured-background">
+                <h3>Who Are We?</h3>
+                <hr>
+                <p>Charis in Action was founded in 2014 to support external ministries outside the local church. Charis is the Greek word for grace, God's undeserved favor that He provides for mankind. Charis in Action equips disciples of Jesus to both share and demonstrate the love of Jesus Christ. It is literally God's grace in action throughout the world. The foundation of everything we do is rooted in the Great Commission: “Go and make disciples of all nations” Matthew 28:19.</p>
+                <button class="btn btn-v1 center">Read More >></button>
             </div>
 
-            <div class="large-4 medium-4 cell">
-                <h5>Try one of these buttons:</h5>
-                <p><a href="#" class="button">Simple Button</a><br/>
-                    <a href="#" class="success button">Success Btn</a><br/>
-                    <a href="#" class="alert button">Alert Btn</a><br/>
-                    <a href="#" class="secondary button">Secondary Btn</a></p>
-                <div class="callout">
-                    <h5>So many components, girl!</h5>
-                    <p>A whole kitchen sink of goodies comes with Foundation. Check out the docs to see them all, along with details on making them your own.</p>
-                    <a href="http://foundation.zurb.com/sites/docs/" class="small button">Go to Foundation Docs</a>
-                </div>
+            <div class="small-12 medium-6 cell featured-background">
+                <h3>How Can I Help?</h3>
+                <hr>
+                <p>By Donating. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus accusantium aliquid, cupiditate enim et exercitationem iusto modi necessitatibus omnis quasi repudiandae sed sequi tenetur veniam vero voluptas voluptates. Facere, sit.</p>
+                <button class="btn btn-v1 center">Reach the Nations</button>
+            </div>
+
+            <div class="small-12 medium-6 cell featured-background">
+                <h3>How Can I Stay Updated?</h3>
+                <hr>
+                <p>Reading our blog. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus accusantium aliquid, cupiditate enim et exercitationem iusto modi necessitatibus omnis quasi repudiandae sed sequi tenetur veniam vero voluptas voluptates. Facere, sit.</p>
+                <button class="btn btn-v1 center">Read More</button>
             </div>
         </div>
     </div>
 </div>
+
+
+    <div class="grid-container full-width margin-pull">
+        <div class="grid-x grid-padding-x" style ="background: linear-gradient( rgba(255, 255, 255, 1), rgba(255, 255, 255, 0)), url(https://images.unsplash.com/photo-1444664361762-afba083a4d77?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2000&q=80);background-position: center center;">
+
+
+            <div class = "grid-container massive-margin margin-bottom">
+                <div class="grid-x grid-margin-x grid-margin-y">
+                    <div class="small-12 cell stat-card">
+                        <h3 class = "center background-invert add-padding">Every number is a person, and every person matters to Jesus.</h3>
+                    </div>
+
+                    <div class="small-12 medium-4 cell stat-card">
+                        <div class = "stat-outer">
+                            <div class="stat-container">
+                                <h3 class = "">11730</h3>
+                                <h5>people groups</h5>
+                            </div>
+                            <img src="https://images.unsplash.com/photo-1444664361762-afba083a4d77?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2000&q=80" alt="">
+                        </div>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque distinctio laudantium magnam pariatur repellendus repudiandae. Atque commodi maxime minus nostrum obcaecati odit perspiciatis, quisquam. Corporis excepturi nesciunt quia unde vero.</p>
+                    </div>
+
+                    <div class="small-12 medium-4 cell stat-card">
+                        <div class = "stat-outer">
+                            <div class="stat-container">
+                                <h3 class = "">7070</h3>
+                                <h5>unreached people groups</h5>
+                            </div>
+                            <img src="https://images.unsplash.com/photo-1444664361762-afba083a4d77?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2000&q=80" alt="">
+                        </div>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque distinctio laudantium magnam pariatur repellendus repudiandae. Atque commodi maxime minus nostrum obcaecati odit perspiciatis, quisquam. Corporis excepturi nesciunt quia unde vero.</p>
+                    </div>
+
+                    <div class="small-12 medium-4 cell stat-card">
+                        <div class = "stat-outer">
+                            <div class="stat-container">
+                                <h3 class = "">3132</h3>
+                                <h5>unengaged people groups</h5>
+                            </div>
+                            <img src="https://images.unsplash.com/photo-1444664361762-afba083a4d77?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2000&q=80" alt="">
+                        </div>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque distinctio laudantium magnam pariatur repellendus repudiandae. Atque commodi maxime minus nostrum obcaecati odit perspiciatis, quisquam. Corporis excepturi nesciunt quia unde vero.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="full-width color-background">
+        <div class = "grid-container">
+            <div class="grid-x grid-padding-x grid-margin-x">
+                <div class="small-12 cell margin-top margin-bottom">
+                <h2 class = "center">Engage the World, Embrace the Kingdom, Empower the People</h2>
+                </div>
+            </div>
+        </div>
+    </div>
+
 
 
 

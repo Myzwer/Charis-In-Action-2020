@@ -30,33 +30,7 @@
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-}
-
-
-
-
-
-//*********************************************
-//************** VIDEO HEADER *****************
-//*********************************************
-video {
-  object-fit: cover;
-  width: 100vw;
-  height: 100vh;
-  position: fixed;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  z-index: -2;
-
-}
-.viewport-header {
-  position: relative;
   text-align: center;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  height: 100vh;
 }
 
 
@@ -73,7 +47,43 @@ body {
   color: $primary;
 }
 
+.color-background {
+  background-color: $orange;
+  color: $primary;
+}
+
 .inverted-background {
   background-color: $primary;
   color: $background;
+}
+
+//*********************************************
+//*********** SPECIAL BACKGROUNDS *************
+//*********************************************
+
+.featured-background {
+  background-color: $gray;
+  color: $primary;
+  box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+  z-index: 10;
+  border-radius: 10px;
+  margin-bottom: 20px;
+
+  hr {
+    margin: 0 20px;
+  }
+
+  h3 {
+    color: $primary;
+    text-align: center;
+    margin-top: 10px;
+  }
+
+  p {
+    margin-bottom: 0px;
+  }
+
+  button {
+    margin-bottom: 10px;
+  }
 }

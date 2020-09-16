@@ -1,0 +1,38 @@
+.stats-outer {
+
+}
+
+.stat-card {
+  background-color: $gray;
+  border-radius: 10px;
+  box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+
+  img {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+  }
+}
+
+.stat-outer {
+  position: relative;
+}
+
+.stat-container {
+  position: absolute;
+  right: 10px;
+  bottom: 0;
+  text-align: right;
+
+  h3 {
+    color: white;
+    font-size: 3em;
+    margin: -10px;
+    padding-right: 10px;
+  }
+
+  h5 {
+    color: white;
+    font-size: 1em;
+    text-align: right;
+  }
+}

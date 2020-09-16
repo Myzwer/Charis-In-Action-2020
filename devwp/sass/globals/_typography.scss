@@ -38,8 +38,9 @@ h1, h2, h3 {
 }
 
 h1 {
-  text-transform: uppercase;
   font-size: $xlarge;
+  font-style: italic;
+  font-weight: 700;
 }
 
 h2 {
@@ -111,4 +112,16 @@ p {
 
 .right {
   text-align: right;
+}
+
+//*********************************************
+//*************** COLOR FLIPS *****************
+//*********************************************
+
+.primary-invert {
+  color: $background;
+}
+
+.background-invert {
+  color: $primary;
 }
