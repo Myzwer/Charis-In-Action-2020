@@ -19,16 +19,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="053c30ea-41d6-43a4-9236-366eb4cc3d4d" name="Default Changelist" comment="Completed the front page. Might need some updates later on, and will need ACF added at a later date.">
-      <change afterPath="$PROJECT_DIR$/devwp/about.php" afterDir="false" />
+    <list default="true" id="053c30ea-41d6-43a4-9236-366eb4cc3d4d" name="Default Changelist" comment="Finished the header and start of the body on about us and removed a block of commented code from header.php.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devwp/about.php" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/about.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/devwp/dist/css/main.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/dist/css/main.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/devwp/dist/css/maps/main.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/dist/css/maps/main.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devwp/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devwp/front-page.php" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/front-page.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/devwp/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devwp/sass/globals/_typography.scss" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/sass/globals/_typography.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devwp/sass/globals/hero.scss" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/sass/globals/_hero.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devwp/sass/pages-single/stats.scss" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/sass/pages-single/_stats.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devwp/sass/globals/_backgrounds.scss" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/sass/globals/_backgrounds.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devwp/sass/grid/_overrides.scss" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/sass/grid/_overrides.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +100,8 @@
       <workItem from="1586218388070" duration="975000" />
       <workItem from="1600058520772" duration="7536000" />
       <workItem from="1600133287292" duration="8439000" />
-      <workItem from="1600218901832" duration="8246000" />
+      <workItem from="1600218901832" duration="8708000" />
+      <workItem from="1600303881525" duration="13968000" />
     </task>
     <task id="LOCAL-00001" summary="Udpated theme name from the starter theme &quot;yestau&quot; to &quot;charis&quot;, the primary theme name for this website.">
       <created>1600059284163</created>
@@ -145,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600224330041</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Finished the header and start of the body on about us and removed a block of commented code from header.php.">
+      <created>1600235594089</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1600235594089</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,7 +177,8 @@
     <MESSAGE value="Updated the header for this theme" />
     <MESSAGE value="Swapped the footer colors out to finish it as well" />
     <MESSAGE value="Completed the front page. Might need some updates later on, and will need ACF added at a later date." />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed the front page. Might need some updates later on, and will need ACF added at a later date." />
+    <MESSAGE value="Finished the header and start of the body on about us and removed a block of commented code from header.php." />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished the header and start of the body on about us and removed a block of commented code from header.php." />
   </component>
   <component name="WindowStateProjectService">
     <state x="707" y="483" key="NewPhpFileDialog" timestamp="1600224502800">

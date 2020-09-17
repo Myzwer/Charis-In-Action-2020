@@ -33,32 +33,32 @@ get_header(); ?>
 
 
 
-<div class="full-width main-background">
-    <div class = "grid-container">
-        <div class="grid-x grid-padding-x grid-margin-x">
-            <div class="large-12 cell margin-pull featured-background">
-                <h3>Who Are We?</h3>
-                <hr>
-                <p>Charis in Action was founded in 2014 to support external ministries outside the local church. Charis is the Greek word for grace, God's undeserved favor that He provides for mankind. Charis in Action equips disciples of Jesus to both share and demonstrate the love of Jesus Christ. It is literally God's grace in action throughout the world. The foundation of everything we do is rooted in the Great Commission: “Go and make disciples of all nations” Matthew 28:19.</p>
-                <button class="btn btn-v1 center">Read More >></button>
-            </div>
+    <div class="full-width main-background">
+        <div class = "grid-container">
+            <div class="grid-x grid-padding-x grid-margin-x">
+                <div class="large-12 cell margin-pull featured-background">
+                    <h3>Who Are We?</h3>
+                    <hr>
+                    <p>Charis in Action was founded in 2014 to support external ministries outside the local church. Charis is the Greek word for grace, God's undeserved favor that He provides for mankind. Charis in Action equips disciples of Jesus to both share and demonstrate the love of Jesus Christ. It is literally God's grace in action throughout the world. The foundation of everything we do is rooted in the Great Commission: “Go and make disciples of all nations” Matthew 28:19.</p>
+                    <button class="btn btn-v1 center">Read More >></button>
+                </div>
 
-            <div class="small-12 medium-6 cell featured-background">
-                <h3>How Can I Help?</h3>
-                <hr>
-                <p>By Donating. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus accusantium aliquid, cupiditate enim et exercitationem iusto modi necessitatibus omnis quasi repudiandae sed sequi tenetur veniam vero voluptas voluptates. Facere, sit.</p>
-                <button class="btn btn-v1 center">Reach the Nations</button>
-            </div>
+                <div class="small-12 medium-6 cell featured-background">
+                    <h3>How Can I Help?</h3>
+                    <hr>
+                    <p>By Donating. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus accusantium aliquid, cupiditate enim et exercitationem iusto modi necessitatibus omnis quasi repudiandae sed sequi tenetur veniam vero voluptas voluptates. Facere, sit.</p>
+                    <button class="btn btn-v1 center">Reach the Nations</button>
+                </div>
 
-            <div class="small-12 medium-6 cell featured-background">
-                <h3>How Can I Stay Updated?</h3>
-                <hr>
-                <p>Reading our blog. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus accusantium aliquid, cupiditate enim et exercitationem iusto modi necessitatibus omnis quasi repudiandae sed sequi tenetur veniam vero voluptas voluptates. Facere, sit.</p>
-                <button class="btn btn-v1 center">Read More</button>
+                <div class="small-12 medium-6 cell featured-background">
+                    <h3>How Can I Stay Updated?</h3>
+                    <hr>
+                    <p>Reading our blog. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus accusantium aliquid, cupiditate enim et exercitationem iusto modi necessitatibus omnis quasi repudiandae sed sequi tenetur veniam vero voluptas voluptates. Facere, sit.</p>
+                    <button class="btn btn-v1 center">Read More</button>
+                </div>
             </div>
         </div>
     </div>
-</div>
 
 
     <div class="grid-container full-width margin-pull">

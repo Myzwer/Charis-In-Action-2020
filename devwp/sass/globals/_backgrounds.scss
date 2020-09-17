@@ -52,6 +52,11 @@ body {
   color: $primary;
 }
 
+.gray-background {
+  background-color: $gray;
+  color: $primary;
+}
+
 .inverted-background {
   background-color: $primary;
   color: $background;
