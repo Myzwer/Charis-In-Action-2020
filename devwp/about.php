@@ -14,7 +14,10 @@
 get_header(); ?>
 
     <div class="grid-container full-width">
-        <div class="grid-x grid-padding-x full-background" style = "background: url(https://images.unsplash.com/photo-1516426122078-c23e76319801?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2248&q=80);  background-position: center center;">
+        <div class="grid-x grid-padding-x full-background" style = "background: linear-gradient(
+      rgba(0, 0, 0, 0),
+      rgba(0, 0, 0, 0)
+    ), url(https://images.unsplash.com/photo-1516426122078-c23e76319801?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2248&q=80);  background-position: center center;">
             <div class="small-12 medium-6 medium-offset-6 cell">
                 <div class="massive-margin">
                 <h4 class = "hero-small-font no-margin no-padding">We are</h4>

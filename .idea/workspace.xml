@@ -19,16 +19,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="053c30ea-41d6-43a4-9236-366eb4cc3d4d" name="Default Changelist" comment="Reworked te about us page a few times, still needs more works, biut i like hte progress after deleting the horizontal cells">
-      <change afterPath="$PROJECT_DIR$/devwp/sass/pages-single/_cards.scss" afterDir="false" />
+    <list default="true" id="053c30ea-41d6-43a4-9236-366eb4cc3d4d" name="Default Changelist" comment="Wrapped up the design on the about us page. Will need to go back and add / update content, but for now, this is done.">
+      <change afterPath="$PROJECT_DIR$/devwp/trip.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/devwp/about.php" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/about.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/devwp/dist/css/main.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/dist/css/main.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/devwp/dist/css/maps/main.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/dist/css/maps/main.min.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/devwp/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devwp/sass/globals/_buttons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/sass/globals/_buttons.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/devwp/sass/grid/_overrides.scss" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/sass/grid/_overrides.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devwp/sass/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/sass/main.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +101,7 @@
       <workItem from="1600133287292" duration="8439000" />
       <workItem from="1600218901832" duration="8708000" />
       <workItem from="1600303881525" duration="13999000" />
-      <workItem from="1600405533176" duration="7589000" />
+      <workItem from="1600405533176" duration="9466000" />
     </task>
     <task id="LOCAL-00001" summary="Udpated theme name from the starter theme &quot;yestau&quot; to &quot;charis&quot;, the primary theme name for this website.">
       <created>1600059284163</created>
@@ -161,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600351000239</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Wrapped up the design on the about us page. Will need to go back and add / update content, but for now, this is done.">
+      <created>1600414408627</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1600414408627</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -188,12 +193,13 @@
     <MESSAGE value="Completed the front page. Might need some updates later on, and will need ACF added at a later date." />
     <MESSAGE value="Finished the header and start of the body on about us and removed a block of commented code from header.php." />
     <MESSAGE value="Reworked te about us page a few times, still needs more works, biut i like hte progress after deleting the horizontal cells" />
-    <option name="LAST_COMMIT_MESSAGE" value="Reworked te about us page a few times, still needs more works, biut i like hte progress after deleting the horizontal cells" />
+    <MESSAGE value="Wrapped up the design on the about us page. Will need to go back and add / update content, but for now, this is done." />
+    <option name="LAST_COMMIT_MESSAGE" value="Wrapped up the design on the about us page. Will need to go back and add / update content, but for now, this is done." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="707" y="483" key="NewPhpFileDialog" timestamp="1600224502800">
+    <state x="707" y="483" key="NewPhpFileDialog" timestamp="1600414553760">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state x="707" y="483" key="NewPhpFileDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1600224502800" />
+    <state x="707" y="483" key="NewPhpFileDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1600414553760" />
   </component>
 </project>
