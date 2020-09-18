@@ -57,26 +57,22 @@ get_header(); ?>
     <div class="full-width gray-background top-bot-padding">
         <div class = "grid-container">
             <div class="grid-x grid-margin-x">
-                <div class="small-12 medium-6 large-4 featured-background cell">
-                    <div class = "stat-outer">
-                        <img src="https://images.unsplash.com/photo-1444664361762-afba083a4d77?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2000&q=80" alt="">
-                    </div>
-                    <h2 class = "background-invert add-padding">Empower the People</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque distinctio laudantium magnam pariatur repellendus repudiandae. Atque commodi maxime minus nostrum obcaecati odit perspiciatis, quisquam. Corporis excepturi nesciunt quia unde vero.</p>
+                <div class="small-12 medium-6 large-4 about-card margin-bottom cell">
+                    <img src="https://images.unsplash.com/photo-1444664361762-afba083a4d77?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2000&q=80" alt="">
+                    <h2 class = "background-invert">Engage the World</h2>
+                    <p class = "">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque distinctio laudantium magnam pariatur repellendus repudiandae. Atque commodi maxime minus nostrum obcaecati odit perspiciatis, quisquam. Corporis excepturi nesciunt quia unde vero.</p>
                 </div>
 
-                <div class="small-12 medium-6 large-4 featured-background cell">
-                    <div class = "stat-outer">
-                        <img src="https://images.unsplash.com/photo-1444664361762-afba083a4d77?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2000&q=80" alt="">
-                    </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque distinctio laudantium magnam pariatur repellendus repudiandae. Atque commodi maxime minus nostrum obcaecati odit perspiciatis, quisquam. Corporis excepturi nesciunt quia unde vero.</p>
+                <div class="small-12 medium-6 large-4 about-card margin-bottom cell">
+                    <img src="https://images.unsplash.com/photo-1444664361762-afba083a4d77?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2000&q=80" alt="">
+                    <h2 class = "background-invert">Embrace the Kingdom</h2>
+                    <p class = "">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque distinctio laudantium magnam pariatur repellendus repudiandae. Atque commodi maxime minus nostrum obcaecati odit perspiciatis, quisquam. Corporis excepturi nesciunt quia unde vero.</p>
                 </div>
 
-                <div class="small-12 medium-6 large-4 featured-background cell">
-                    <div class = "stat-outer">
-                        <img src="https://images.unsplash.com/photo-1444664361762-afba083a4d77?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2000&q=80" alt="">
-                    </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque distinctio laudantium magnam pariatur repellendus repudiandae. Atque commodi maxime minus nostrum obcaecati odit perspiciatis, quisquam. Corporis excepturi nesciunt quia unde vero.</p>
+                <div class="small-12 medium-6 large-4 about-card margin-bottom cell">
+                    <img src="https://images.unsplash.com/photo-1444664361762-afba083a4d77?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2000&q=80" alt="">
+                    <h2 class = "background-invert">Empower the People</h2>
+                    <p class = "">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque distinctio laudantium magnam pariatur repellendus repudiandae. Atque commodi maxime minus nostrum obcaecati odit perspiciatis, quisquam. Corporis excepturi nesciunt quia unde vero.</p>
                 </div>
             </div>
         </div>
@@ -86,18 +82,18 @@ get_header(); ?>
     <div class="full-width color-background top-bot-padding">
         <div class = "grid-container">
             <div class="grid-x grid-margin-x">
-                <div class="small-12 medium-6 cell stat-card">
-                    <div class = "stat-outer">
-                        <img src="https://images.unsplash.com/photo-1444664361762-afba083a4d77?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2000&q=80" alt="">
-                    </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque distinctio laudantium magnam pariatur repellendus repudiandae. Atque commodi maxime minus nostrum obcaecati odit perspiciatis, quisquam. Corporis excepturi nesciunt quia unde vero.</p>
+                <div class="small-12 margin-bottom cell">
+                    <h2>We are better together.</h2>
                 </div>
 
-                <div class="small-12 medium-6 cell stat-card">
-                    <div class = "stat-outer">
-                        <img src="https://images.unsplash.com/photo-1444664361762-afba083a4d77?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2000&q=80" alt="">
-                    </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque distinctio laudantium magnam pariatur repellendus repudiandae. Atque commodi maxime minus nostrum obcaecati odit perspiciatis, quisquam. Corporis excepturi nesciunt quia unde vero.</p>
+                <div class="small-12 medium-6 cell margin-bottom">
+                    <h4 class = "center ">Our Partners</h4>
+                    <button class="btn btn-v3 center">View All >></button>
+                </div>
+
+                <div class="small-12 medium-6 cell">
+                    <h4 class = "center">Our Directors</h4>
+                    <button class="btn btn-v3 center">View All >></button>
                 </div>
             </div>
         </div>

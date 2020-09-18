@@ -98,3 +98,39 @@
   }
 }
 
+//*********************************************
+//************* BUTTON STYLE 2 ****************
+//*********************************************
+.btn-v3 {
+  border-color: $blue;
+  color: $background;
+  border-radius: 5px;
+  position: relative;
+  overflow: hidden;
+  z-index: 1;
+  transition: color 150ms ease-in-out;
+
+  &:after {
+    content: '';
+    position: absolute;
+    display: block;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 0;
+    height: 100%;
+    background: $blue;               // change this color
+    z-index: -1;
+    transition:
+            width 150ms ease-in-out;
+  }
+
+  &:hover {
+    color: #fff;                      // change this color
+
+    &:after {
+      width: 110%;
+    }
+  }
+}
+
