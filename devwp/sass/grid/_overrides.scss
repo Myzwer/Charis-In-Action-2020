@@ -49,6 +49,10 @@
   padding-top: 0px;
 }
 
+.left-padding {
+  padding-left: 10px;
+}
+
 //margin
 
 .no-margin {
@@ -80,6 +84,10 @@
   margin-top: 240px;
 }
 
+.header-margin {
+  margin-top: 70px;
+}
+
 
 //*********************************************
 //************** SPECIAL FEATURES *************
@@ -87,6 +95,10 @@
 
 .rounded-corners {
   border-radius: 10px;
+}
+
+.rounded-corner-img {
+  border-top-left-radius: 10px;
 }
 
 .add-shadow {
