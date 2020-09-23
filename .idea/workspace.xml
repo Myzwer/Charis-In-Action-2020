@@ -19,13 +19,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="053c30ea-41d6-43a4-9236-366eb4cc3d4d" name="Default Changelist" comment="Completed the initial design of the directors page. Images still need to be updated, but the page itself structurally is done.">
-      <change afterPath="$PROJECT_DIR$/devwp/partners.php" afterDir="false" />
+    <list default="true" id="053c30ea-41d6-43a4-9236-366eb4cc3d4d" name="Default Changelist" comment="Main structure of the partners page is done. Will need to update the content at a later point.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devwp/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/contact.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/devwp/dist/css/main.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/dist/css/main.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/devwp/dist/css/maps/main.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/dist/css/maps/main.min.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/devwp/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devwp/sass/globals/_backgrounds.scss" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/sass/globals/_backgrounds.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devwp/sass/grid/_overrides.scss" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/sass/grid/_overrides.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +101,7 @@
       <workItem from="1600218901832" duration="8708000" />
       <workItem from="1600303881525" duration="13999000" />
       <workItem from="1600405533176" duration="26612000" />
-      <workItem from="1600740951697" duration="3238000" />
+      <workItem from="1600740951697" duration="11389000" />
     </task>
     <task id="LOCAL-00001" summary="Udpated theme name from the starter theme &quot;yestau&quot; to &quot;charis&quot;, the primary theme name for this website.">
       <created>1600059284163</created>
@@ -180,7 +180,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600425699035</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Main structure of the partners page is done. Will need to update the content at a later point.">
+      <created>1600750880351</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1600750880351</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -210,7 +217,8 @@
     <MESSAGE value="Wrapped up the design on the about us page. Will need to go back and add / update content, but for now, this is done." />
     <MESSAGE value="Finished the Take a trip page. It will need edited in the future, for now it only shows information relevant to COVID response, not the actual trips." />
     <MESSAGE value="Completed the initial design of the directors page. Images still need to be updated, but the page itself structurally is done." />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed the initial design of the directors page. Images still need to be updated, but the page itself structurally is done." />
+    <MESSAGE value="Main structure of the partners page is done. Will need to update the content at a later point." />
+    <option name="LAST_COMMIT_MESSAGE" value="Main structure of the partners page is done. Will need to update the content at a later point." />
   </component>
   <component name="WindowStateProjectService">
     <state x="352" y="215" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600422260336">

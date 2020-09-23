@@ -67,6 +67,10 @@
   margin-bottom: 20px;
 }
 
+.margin-bottom-large {
+  margin-bottom: 60px;
+}
+
 .margin-pull {
   margin-top: -100px;
 }
@@ -78,6 +82,16 @@
 
 .massive-margin {
   margin-top: 200px;
+}
+
+.tablet-massive-margin {
+  margin-top: 20px;
+}
+
+@media screen and (min-width: 40em) {
+  .tablet-massive-margin {
+    margin-top: 200px;
+  }
 }
 
 .super-massive-margin {
