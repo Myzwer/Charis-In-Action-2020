@@ -19,13 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="053c30ea-41d6-43a4-9236-366eb4cc3d4d" name="Default Changelist" comment="Main structure of the partners page is done. Will need to update the content at a later point.">
+    <list default="true" id="053c30ea-41d6-43a4-9236-366eb4cc3d4d" name="Default Changelist" comment="Base structure of a contact is done. Page is pretty simple, but if the client wants to add to the about us section in the bottom more stuff might need to be added.">
+      <change afterPath="$PROJECT_DIR$/devwp/donate.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devwp/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/contact.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devwp/dist/css/main.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/dist/css/main.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devwp/dist/css/maps/main.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/dist/css/maps/main.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devwp/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devwp/sass/grid/_overrides.scss" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/sass/grid/_overrides.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +97,7 @@
       <workItem from="1600218901832" duration="8708000" />
       <workItem from="1600303881525" duration="13999000" />
       <workItem from="1600405533176" duration="26612000" />
-      <workItem from="1600740951697" duration="11389000" />
+      <workItem from="1600740951697" duration="12867000" />
     </task>
     <task id="LOCAL-00001" summary="Udpated theme name from the starter theme &quot;yestau&quot; to &quot;charis&quot;, the primary theme name for this website.">
       <created>1600059284163</created>
@@ -187,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600750880351</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Base structure of a contact is done. Page is pretty simple, but if the client wants to add to the about us section in the bottom more stuff might need to be added.">
+      <created>1600827831428</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1600827831428</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -218,16 +221,17 @@
     <MESSAGE value="Finished the Take a trip page. It will need edited in the future, for now it only shows information relevant to COVID response, not the actual trips." />
     <MESSAGE value="Completed the initial design of the directors page. Images still need to be updated, but the page itself structurally is done." />
     <MESSAGE value="Main structure of the partners page is done. Will need to update the content at a later point." />
-    <option name="LAST_COMMIT_MESSAGE" value="Main structure of the partners page is done. Will need to update the content at a later point." />
+    <MESSAGE value="Base structure of a contact is done. Page is pretty simple, but if the client wants to add to the about us section in the bottom more stuff might need to be added." />
+    <option name="LAST_COMMIT_MESSAGE" value="Base structure of a contact is done. Page is pretty simple, but if the client wants to add to the about us section in the bottom more stuff might need to be added." />
   </component>
   <component name="WindowStateProjectService">
     <state x="352" y="215" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600422260336">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state x="352" y="215" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1600422260336" />
-    <state x="707" y="483" key="NewPhpFileDialog" timestamp="1600471583108">
+    <state x="707" y="483" key="NewPhpFileDialog" timestamp="1600828015680">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state x="707" y="483" key="NewPhpFileDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1600471583108" />
+    <state x="707" y="483" key="NewPhpFileDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1600828015680" />
   </component>
 </project>
