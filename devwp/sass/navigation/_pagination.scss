@@ -1,0 +1,31 @@
+.navigation li a:hover,
+.navigation li.active a,
+.navigation li.disabled {
+  color: $background;
+  text-decoration:none;
+}
+
+.navigation li {
+  display: inline;
+}
+
+.navigation li a{
+  color: $dark-blue;
+}
+
+.navigation li a,
+.navigation li a:hover,
+.navigation li.active a,
+.navigation li.disabled {
+  background-color: $blue;
+  border-radius: 7px;
+  cursor: pointer;
+  padding: 0.75rem;
+
+}
+
+.navigation li a:hover,
+.navigation li.active a {
+  background-color: $blue;
+  color: $background;
+}

@@ -13,23 +13,49 @@
 
 get_header(); ?>
 
-    <div class="grid-container full-width">
-        <div class="grid-x grid-padding-x full-background" style = "background: url(https://images.unsplash.com/photo-1501612780327-45045538702b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80);  background-position: center center;">
-            <div class="large-12 cell">
-                <div class="content-middle">
-                    <h1 class = "center" >One Awesome Title</h1>
-                    <button class="btn btn-v1 center">Button 4</button>
+    <div class="gray-background full-width">
+        <div class="grid-container">
+            <div class="small-12 center cell background-invert">
+                <h4 class = "hero-small-font no-margin no-padding large-padding-mobile background-invert">We are</h4>
+                <h1 class = " no-margin no-padding background-invert">Charis in Action</h1>
+                <p class = "no-margin add-padding italic">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae commodi consequatur dignissimos distinctio doloribus minima molestias necessitatibus nulla. Aliquam consectetur eum exercitationem, fugit ipsam ipsum nobis provident ratione sint sunt!</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="full-width margin-top main-background">
+        <div class="grid-container">
+            <div class="grid-x featured-background featured-blog-card">
+                <div class="small-12 medium-6 cell">
+                    <img src="https://images.unsplash.com/photo-1516426122078-c23e76319801?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2248&q=80" alt="">
+                    </div>
+                <div class="small-12 medium-6 cell">
+                    <h3>Blog Post Title</h3>
+                    <hr>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc volutpat leo dignissim, rhoncus lacus vitae, hendrerit magna. Fusce aliquam finibus</p>
+                    <button class="btn btn-v1 center">Read More >></button>
                 </div>
             </div>
         </div>
     </div>
 
-    <div class="grid-container">
+    <div class="full-width main-background">
+        <div class = "grid-container">
+            <div class="grid-x grid-padding-x grid-margin-x">
+                <div class="small-12 cell center">
+                    <h2 class = "background-invert margin-top">Recent Posts</h2>
+                    <hr>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="grid-container blog-background">
         <div class="grid-x grid-padding-x">
             <?php
             if ( have_posts() ) :
             while ( have_posts() ) : the_post();
-            echo "<div class='small-12 large-6 cell'>";
+            echo "<div class='small-12 medium-6 large-4 cell'>";
             ?>
 
             <div class = 'blog-card'>
@@ -71,11 +97,22 @@ get_header(); ?>
                     endwhile;
                     else:
                         _e( 'Sorry, no posts matched your criteria.', 'textdomain' );
-                    endif;
-                    ?>
+                    endif;  ?>
+
+
+
             </div>
         </div>
 
+    <div class="full-width main-background">
+        <div class = "grid-container">
+            <div class="grid-x grid-padding-x grid-margin-x">
+                <div class="small-12 cell center">
+                    <?php wpbeginner_numeric_posts_nav(); ?>
+                </div>
+            </div>
+        </div>
+    </div>
 
 
 

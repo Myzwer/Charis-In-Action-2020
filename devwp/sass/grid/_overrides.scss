@@ -53,6 +53,16 @@
   padding-left: 10px;
 }
 
+.large-padding-mobile {
+  padding-top: 20px;
+}
+
+@media screen and (min-width: 40em) {
+  .large-padding-mobile {
+    padding-top: 100px;
+  }
+}
+
 //margin
 
 .no-margin {
