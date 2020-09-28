@@ -22,7 +22,7 @@ get_header(); ?>
                 <div class="massive-margin">
                 <h4 class = "hero-small-font no-margin no-padding">We are</h4>
                 <h1 class = " no-margin no-padding">Charis in Action</h1>
-                <p class = "no-margin no-padding primary-invert italic">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae commodi consequatur dignissimos distinctio doloribus minima molestias necessitatibus nulla. Aliquam consectetur eum exercitationem, fugit ipsam ipsum nobis provident ratione sint sunt!</p>
+                    <p class = "no-margin no-padding primary-invert italic">We exists to Develop Mature Disciples of Jesus Christ in Relational Environments.</p>
                 </div>
             </div>
         </div>

@@ -46,14 +46,14 @@ get_header(); ?>
                 <div class="small-12 medium-6 cell featured-background">
                     <h3>How Can I Help?</h3>
                     <hr>
-                    <p>By Donating. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus accusantium aliquid, cupiditate enim et exercitationem iusto modi necessitatibus omnis quasi repudiandae sed sequi tenetur veniam vero voluptas voluptates. Facere, sit.</p>
+                    <p>Our greatest passion is the Great Commission.  Join us in making disciples of all nations. Matthew 28:18.  100% of your gift will help us spread the gospel of Jesus Christ.</p>
                     <button class="btn btn-v1 center">Reach the Nations</button>
                 </div>
 
                 <div class="small-12 medium-6 cell featured-background">
                     <h3>How Can I Stay Updated?</h3>
                     <hr>
-                    <p>Reading our blog. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus accusantium aliquid, cupiditate enim et exercitationem iusto modi necessitatibus omnis quasi repudiandae sed sequi tenetur veniam vero voluptas voluptates. Facere, sit.</p>
+                    <p>Stay updated about the work our Partners are doing.  Read about their daily activities and get to know the locals as they build relationships. </p>
                     <button class="btn btn-v1 center">Read More</button>
                 </div>
             </div>
@@ -79,7 +79,8 @@ get_header(); ?>
                             </div>
                             <img src="https://images.unsplash.com/photo-1444664361762-afba083a4d77?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2000&q=80" alt="">
                         </div>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque distinctio laudantium magnam pariatur repellendus repudiandae. Atque commodi maxime minus nostrum obcaecati odit perspiciatis, quisquam. Corporis excepturi nesciunt quia unde vero.</p>
+                        <h4 class = "no-margin margin-left margin-top background-invert">What is a people group?</h4>
+                        <p class = "no-top-padding">An ethno-linguistic group with a common self-identity that is shared by the various members. For strategic purposes it is the largest group within which the Gospel can spread without encountering barriers of understanding or acceptance</p>
                     </div>
 
                     <div class="small-12 medium-4 cell stat-card">
@@ -90,7 +91,8 @@ get_header(); ?>
                             </div>
                             <img src="https://images.unsplash.com/photo-1444664361762-afba083a4d77?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2000&q=80" alt="">
                         </div>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque distinctio laudantium magnam pariatur repellendus repudiandae. Atque commodi maxime minus nostrum obcaecati odit perspiciatis, quisquam. Corporis excepturi nesciunt quia unde vero.</p>
+                        <h4 class = "no-margin margin-left margin-top background-invert">Whay are they unreached?</h4>
+                        <p class = "no-top-padding">A people group is considered unreached (UPG) when there is no indigenous community of believing Christians able to engage this people group with church planting. Technically speaking, the percentage of evangelical Christians in this people group is less than 2 percent.</p>
                     </div>
 
                     <div class="small-12 medium-4 cell stat-card">
@@ -101,7 +103,8 @@ get_header(); ?>
                             </div>
                             <img src="https://images.unsplash.com/photo-1444664361762-afba083a4d77?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2000&q=80" alt="">
                         </div>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque distinctio laudantium magnam pariatur repellendus repudiandae. Atque commodi maxime minus nostrum obcaecati odit perspiciatis, quisquam. Corporis excepturi nesciunt quia unde vero.</p>
+                        <h4 class = "no-margin margin-left margin-top background-invert">Who are the unengaged?</h4>
+                        <p class = "no-top-padding">Unreached people groups are unengaged (UUPG) when there is no church planting strategy, consistent with evangelical faith and practice, under way. Gathering believers and planting churches are the keys to establishing an effective and multiplying presence among these people groups.</p>
                     </div>
                 </div>
             </div>
