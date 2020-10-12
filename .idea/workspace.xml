@@ -19,14 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="053c30ea-41d6-43a4-9236-366eb4cc3d4d" name="Default Changelist" comment="Basic blog structure is finished, there will be edits later on, but the base structure is present.">
+    <list default="true" id="053c30ea-41d6-43a4-9236-366eb4cc3d4d" name="Default Changelist" comment="Updated copy on the homepage and the about us page. Added small headers to the lower cards section on the homepage as well.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devwp/about.php" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/about.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devwp/dist/css/main.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/dist/css/main.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devwp/dist/css/maps/main.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/dist/css/maps/main.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devwp/front-page.php" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/front-page.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devwp/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devwp/sass/grid/_overrides.scss" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/sass/grid/_overrides.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +97,7 @@
       <workItem from="1600303881525" duration="13999000" />
       <workItem from="1600405533176" duration="26612000" />
       <workItem from="1600740951697" duration="13465000" />
-      <workItem from="1601152602077" duration="14716000" />
+      <workItem from="1601152602077" duration="16615000" />
     </task>
     <task id="LOCAL-00001" summary="Udpated theme name from the starter theme &quot;yestau&quot; to &quot;charis&quot;, the primary theme name for this website.">
       <created>1600059284163</created>
@@ -210,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601255881600</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Updated copy on the homepage and the about us page. Added small headers to the lower cards section on the homepage as well.">
+      <created>1601259178555</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1601259178555</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -244,7 +245,8 @@
     <MESSAGE value="Base structure of a contact is done. Page is pretty simple, but if the client wants to add to the about us section in the bottom more stuff might need to be added." />
     <MESSAGE value="Donate page is completed as far as client has requested. They will probably add more content at a later date, but I do not have that yet." />
     <MESSAGE value="Basic blog structure is finished, there will be edits later on, but the base structure is present." />
-    <option name="LAST_COMMIT_MESSAGE" value="Basic blog structure is finished, there will be edits later on, but the base structure is present." />
+    <MESSAGE value="Updated copy on the homepage and the about us page. Added small headers to the lower cards section on the homepage as well." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated copy on the homepage and the about us page. Added small headers to the lower cards section on the homepage as well." />
   </component>
   <component name="WindowStateProjectService">
     <state x="352" y="215" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600422260336">
